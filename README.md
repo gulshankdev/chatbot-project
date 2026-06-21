@@ -103,5 +103,5 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ## 👨‍💻 Author
 
-**Kamlesh kumar**
-[GitHub]((https://github.com/kamleshkumarr))
+**Gulshan kumar**
+https://github.com/gulshankdev/chatbot-project
